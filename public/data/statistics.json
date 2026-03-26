@@ -1,0 +1,50 @@
+{
+  "generated": "2026-03-26T00:00:00Z",
+  "summary": {
+    "total_projects": 28,
+    "total_capacity_mw": 11500,
+    "total_capacity_gw": 11.5,
+    "total_cost_billions": 52.68,
+    "total_acres": 7840,
+    "with_opposition": 28,
+    "blocked_count": 7,
+    "delayed_count": 11,
+    "withdrawn_count": 2
+  },
+  "by_state": {
+    "IN": 3,
+    "AZ": 3,
+    "VA": 5,
+    "OH": 2,
+    "IL": 2,
+    "UT": 3,
+    "GA": 4,
+    "NC": 2,
+    "TX": 2,
+    "OR": 1,
+    "CA": 1
+  },
+  "by_opposition_factor": {
+    "Air Quality": 6,
+    "Water": 7,
+    "Environment": 8,
+    "Traffic": 5,
+    "Noise": 8,
+    "Wildlife": 4,
+    "Visual Impact": 9,
+    "Light Pollution": 8,
+    "Electricity": 6,
+    "Property Values": 5,
+    "Rural Preservation": 4,
+    "Historic Preservation": 4
+  },
+  "by_stage_gate": {
+    "LEGISLATIVE_ZONING": 4,
+    "PLANNING_COMMISSION": 3,
+    "UTILITY_APPROVAL": 9,
+    "ENVIRONMENTAL_REVIEW": 3,
+    "BOARD_OF_SUPERVISORS": 4,
+    "COMMUNITY_HEARING": 4,
+    "SITE_PLAN_APPROVAL": 1
+  }
+}

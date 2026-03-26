@@ -1,0 +1,76 @@
+{
+  "status": [
+    "BLOCKED",
+    "DELAYED",
+    "WITHDRAWN",
+    "UNDER_REVIEW",
+    "APPROVED_WITH_CONDITIONS"
+  ],
+  "stage_gate": [
+    "ZONING_REZONING",
+    "PLANNING_COMMISSION",
+    "BOARD_OF_SUPERVISORS",
+    "ENVIRONMENTAL_REVIEW",
+    "UTILITY_APPROVAL",
+    "SITE_PLAN_APPROVAL",
+    "LEGISLATIVE_ZONING",
+    "COMMUNITY_HEARING",
+    "COURT_CHALLENGE"
+  ],
+  "opposition_factors": [
+    "Water",
+    "Noise",
+    "Electricity",
+    "Environment",
+    "Traffic",
+    "Property Values",
+    "Light Pollution",
+    "Air Quality",
+    "Wildlife",
+    "Historic Preservation",
+    "Rural Preservation",
+    "Visual Impact"
+  ],
+  "state": [
+    "AZ",
+    "CA",
+    "GA",
+    "IL",
+    "IN",
+    "NC",
+    "OH",
+    "OR",
+    "TX",
+    "UT",
+    "VA"
+  ],
+  "developer": [
+    "Blackstone Infrastructure",
+    "Bridgepoint Infrastructure",
+    "Clearwater Data Partners",
+    "Diode Ventures",
+    "GI Partners",
+    "Headwaters Site Development",
+    "Landmark Data Centers",
+    "Nexus Development Corp",
+    "Provident Realty Advisors",
+    "Quantum Realty Trust",
+    "Silverline Properties",
+    "Starwood Capital Group",
+    "Tract Development Group"
+  ],
+  "tenant": [
+    "Apex Cloud Solutions",
+    "Atlas Data Services",
+    "Bedrock Digital",
+    "Cirrus Platforms",
+    "Horizon Networks",
+    "Ironclad Hosting",
+    "Keystone Cloud",
+    "Meridian Digital",
+    "NovaTech Industries",
+    "Summit Technologies",
+    "Titan Infrastructure",
+    "Vanguard Computing"
+  ]
+}
