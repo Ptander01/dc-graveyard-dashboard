@@ -1,5 +1,7 @@
 # Data Center Graveyard Dashboard
 
+> **Live Demo:** [dc-graveyard-dashboard.vercel.app](https://dc-graveyard-dashboard.vercel.app/)
+
 A specialized visualization tool for tracking and analyzing at-risk, delayed, and blocked data center projects across the United States. This dashboard highlights community opposition factors, stage gate failures, and capacity at risk.
 
 **Note:** This repository contains a sanitized version of the application. All proprietary data and real-world project specifics have been replaced with a synthetic dataset inspired by real-world patterns for demonstration purposes.
