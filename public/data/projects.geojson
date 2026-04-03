@@ -6,321 +6,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -86.983411,
-          41.20872
+          -77.5636,
+          39.1157
         ]
       },
       "properties": {
-        "uid": "GY-001",
-        "facility_name": "Valparaiso Data Center Hub",
-        "developer": "Nexus Development Corp",
-        "tenant": "Titan Infrastructure",
-        "address": "2895 Commerce Dr",
-        "city": "Valparaiso",
-        "state": "IN",
-        "county": "Valparaiso County",
-        "latitude": 41.20872,
-        "longitude": -86.983411,
-        "capacity_mw": 750,
-        "cost_billions_usd": 4.65,
-        "property_acres": 46,
+        "uid": "GY_001",
+        "facility_name": "Loudoun County DC Moratorium Zone A",
+        "developer": "Multiple Developers",
+        "tenant": "Various Hyperscalers",
+        "city": "Leesburg",
+        "state": "VA",
+        "county": "Loudoun",
+        "latitude": 39.1157,
+        "longitude": -77.5636,
+        "capacity_mw": 800,
+        "cost_billions_usd": 5.0,
+        "property_acres": 400,
         "current_status": "BLOCKED",
-        "status_date": "2025-06-21",
+        "status_date": "2024-06-15",
         "stage_gate": "LEGISLATIVE_ZONING",
         "has_opposition": true,
         "opposition_factors": [
-          "Air Quality",
-          "Water"
-        ],
-        "opposition_count": 2,
-        "community_groups": [
-          "Save Our Valley Coalition"
-        ],
-        "milestone_count": 7
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.318016,
-          33.198021
-        ]
-      },
-      "properties": {
-        "uid": "GY-002",
-        "facility_name": "Mesa Data Center Campus",
-        "developer": "GI Partners",
-        "tenant": "Ironclad Hosting",
-        "address": "4634 Industrial Dr",
-        "city": "Mesa",
-        "state": "AZ",
-        "county": "West Mesa County",
-        "latitude": 33.198021,
-        "longitude": -112.318016,
-        "capacity_mw": 200,
-        "cost_billions_usd": 0.62,
-        "property_acres": 100,
-        "current_status": "APPROVED_WITH_CONDITIONS",
-        "status_date": "2024-06-19",
-        "stage_gate": "PLANNING_COMMISSION",
-        "has_opposition": true,
-        "opposition_factors": [
-          "Environment",
-          "Traffic"
-        ],
-        "opposition_count": 2,
-        "community_groups": [
-          "Quiet Communities Coalition",
-          "Sustainable Growth Alliance"
-        ],
-        "milestone_count": 2
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.772208,
-          37.96956
-        ]
-      },
-      "properties": {
-        "uid": "GY-003",
-        "facility_name": "Warrenton Data Center Hub",
-        "developer": "Tract Development Group",
-        "tenant": "NovaTech Industries",
-        "address": "5614 Technology Dr",
-        "city": "Warrenton",
-        "state": "VA",
-        "county": "Warrenton County",
-        "latitude": 37.96956,
-        "longitude": -77.772208,
-        "capacity_mw": 300,
-        "cost_billions_usd": 1.95,
-        "property_acres": 47,
-        "current_status": "UNDER_REVIEW",
-        "status_date": "2025-05-12",
-        "stage_gate": "UTILITY_APPROVAL",
-        "has_opposition": true,
-        "opposition_factors": [
-          "Water",
           "Noise",
-          "Environment",
-          "Wildlife",
-          "Visual Impact"
-        ],
-        "opposition_count": 5,
-        "community_groups": [
-          "Power Grid Accountability Group",
-          "Heritage Conservation Trust"
-        ],
-        "milestone_count": 8
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.900953,
-          40.270496
-        ]
-      },
-      "properties": {
-        "uid": "GY-004",
-        "facility_name": "Dublin Data Center Hub",
-        "developer": "Tract Development Group",
-        "tenant": "Vanguard Computing",
-        "address": "3179 Industrial Dr",
-        "city": "Dublin",
-        "state": "OH",
-        "county": "West Dublin County",
-        "latitude": 40.270496,
-        "longitude": -82.900953,
-        "capacity_mw": 500,
-        "cost_billions_usd": 3.42,
-        "property_acres": 43,
-        "current_status": "DELAYED",
-        "status_date": "2024-09-11",
-        "stage_gate": "UTILITY_APPROVAL",
-        "has_opposition": true,
-        "opposition_factors": [
-          "Visual Impact",
-          "Light Pollution",
           "Electricity",
-          "Water"
-        ],
-        "opposition_count": 4,
-        "community_groups": [
-          "Save Our Valley Coalition",
-          "Environmental Justice Network",
-          "Heritage Conservation Trust"
-        ],
-        "milestone_count": 6
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.045604,
-          39.246869
-        ]
-      },
-      "properties": {
-        "uid": "GY-005",
-        "facility_name": "Sterling Data Center Complex",
-        "developer": "Quantum Realty Trust",
-        "tenant": "Horizon Networks",
-        "address": "9090 Innovation Rd",
-        "city": "Sterling",
-        "state": "VA",
-        "county": "North Sterling County",
-        "latitude": 39.246869,
-        "longitude": -77.045604,
-        "capacity_mw": 200,
-        "cost_billions_usd": 1.13,
-        "property_acres": 449,
-        "current_status": "WITHDRAWN",
-        "status_date": "2024-05-26",
-        "stage_gate": "ENVIRONMENTAL_REVIEW",
-        "has_opposition": true,
-        "opposition_factors": [
-          "Noise",
-          "Property Values",
-          "Light Pollution",
-          "Air Quality",
-          "Visual Impact"
-        ],
-        "opposition_count": 5,
-        "community_groups": [
-          "Green Space Guardians",
-          "Clean Water Action Committee",
-          "Power Grid Accountability Group"
-        ],
-        "milestone_count": 1
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.959332,
-          41.837518
-        ]
-      },
-      "properties": {
-        "uid": "GY-006",
-        "facility_name": "Chicago Data Center Hub",
-        "developer": "Provident Realty Advisors",
-        "tenant": "Keystone Cloud",
-        "address": "1581 Technology Rd",
-        "city": "Chicago",
-        "state": "IL",
-        "county": "Chicago County",
-        "latitude": 41.837518,
-        "longitude": -87.959332,
-        "capacity_mw": 100,
-        "cost_billions_usd": 0.26,
-        "property_acres": 69,
-        "current_status": "BLOCKED",
-        "status_date": "2025-05-02",
-        "stage_gate": "UTILITY_APPROVAL",
-        "has_opposition": true,
-        "opposition_factors": [
-          "Property Values",
-          "Light Pollution"
-        ],
-        "opposition_count": 2,
-        "community_groups": [
-          "Friends of Rural Heritage",
-          "Community First Initiative"
-        ],
-        "milestone_count": 2
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.959742,
-          40.2388
-        ]
-      },
-      "properties": {
-        "uid": "GY-007",
-        "facility_name": "Provo Data Center Campus",
-        "developer": "Nexus Development Corp",
-        "tenant": "Bedrock Digital",
-        "address": "9485 Technology Rd",
-        "city": "Provo",
-        "state": "UT",
-        "county": "South Provo County",
-        "latitude": 40.2388,
-        "longitude": -111.959742,
-        "capacity_mw": 750,
-        "cost_billions_usd": 4.44,
-        "property_acres": 487,
-        "current_status": "APPROVED_WITH_CONDITIONS",
-        "status_date": "2024-04-24",
-        "stage_gate": "PLANNING_COMMISSION",
-        "has_opposition": true,
-        "opposition_factors": [
-          "Environment",
-          "Traffic"
-        ],
-        "opposition_count": 2,
-        "community_groups": [
-          "Clean Water Action Committee"
-        ],
-        "milestone_count": 2
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.298993,
-          40.088458
-        ]
-      },
-      "properties": {
-        "uid": "GY-008",
-        "facility_name": "New Albany Data Center Hub",
-        "developer": "Blackstone Infrastructure",
-        "tenant": "Titan Infrastructure",
-        "address": "5276 Commerce Dr",
-        "city": "New Albany",
-        "state": "OH",
-        "county": "New Albany County",
-        "latitude": 40.088458,
-        "longitude": -83.298993,
-        "capacity_mw": 750,
-        "cost_billions_usd": 5.91,
-        "property_acres": 367,
-        "current_status": "BLOCKED",
-        "status_date": "2025-02-08",
-        "stage_gate": "PLANNING_COMMISSION",
-        "has_opposition": true,
-        "opposition_factors": [
-          "Rural Preservation",
-          "Electricity",
-          "Wildlife"
+          "Property Value"
         ],
         "opposition_count": 3,
-        "community_groups": [
-          "Power Grid Accountability Group",
-          "Property Rights Coalition",
-          "Friends of Rural Heritage"
-        ],
-        "milestone_count": 1
+        "community_detail": "Residents concerned about noise from cooling systems and strain on power grid",
+        "milestone_count": 0
       }
     },
     {
@@ -328,82 +42,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -84.68206,
-          33.943985
+          -77.4753,
+          38.7509
         ]
       },
       "properties": {
-        "uid": "GY-009",
-        "facility_name": "Douglasville Data Center Park",
-        "developer": "Nexus Development Corp",
-        "tenant": "Cirrus Platforms",
-        "address": "961 Commerce Pkwy",
-        "city": "Douglasville",
-        "state": "GA",
-        "county": "South Douglasville County",
-        "latitude": 33.943985,
-        "longitude": -84.68206,
-        "capacity_mw": 50,
-        "cost_billions_usd": 0.28,
-        "property_acres": 356,
+        "uid": "GY_002",
+        "facility_name": "Prince William County DC Restrictions",
+        "developer": "Various",
+        "tenant": "Cloud Providers",
+        "city": "Manassas",
+        "state": "VA",
+        "county": "Prince William",
+        "latitude": 38.7509,
+        "longitude": -77.4753,
+        "capacity_mw": 600,
+        "cost_billions_usd": 3.5,
+        "property_acres": 300,
         "current_status": "DELAYED",
-        "status_date": "2024-03-01",
+        "status_date": "2024-09-01",
         "stage_gate": "LEGISLATIVE_ZONING",
         "has_opposition": true,
         "opposition_factors": [
-          "Visual Impact",
           "Noise",
-          "Traffic",
-          "Air Quality",
+          "Electricity",
           "Environment"
         ],
-        "opposition_count": 5,
-        "community_groups": [
-          "Clean Water Action Committee",
-          "Community First Initiative"
-        ],
-        "milestone_count": 6
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.054964,
-          35.358922
-        ]
-      },
-      "properties": {
-        "uid": "GY-010",
-        "facility_name": "Lenoir Data Center Campus",
-        "developer": "Provident Realty Advisors",
-        "tenant": "NovaTech Industries",
-        "address": "5081 Innovation Rd",
-        "city": "Lenoir",
-        "state": "NC",
-        "county": "East Lenoir County",
-        "latitude": 35.358922,
-        "longitude": -79.054964,
-        "capacity_mw": 750,
-        "cost_billions_usd": 3.02,
-        "property_acres": 524,
-        "current_status": "APPROVED_WITH_CONDITIONS",
-        "status_date": "2025-07-15",
-        "stage_gate": "ENVIRONMENTAL_REVIEW",
-        "has_opposition": true,
-        "opposition_factors": [
-          "Light Pollution",
-          "Visual Impact",
-          "Noise"
-        ],
         "opposition_count": 3,
-        "community_groups": [
-          "Community First Initiative",
-          "Clean Water Action Committee",
-          "Environmental Justice Network"
-        ],
-        "milestone_count": 7
+        "community_detail": "County imposed height and noise restrictions on new DC development",
+        "milestone_count": 0
       }
     },
     {
@@ -411,628 +78,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.862291,
-          40.46513
+          -111.8413,
+          33.3062
         ]
       },
       "properties": {
-        "uid": "GY-011",
-        "facility_name": "West Jordan Data Center Campus",
-        "developer": "Headwaters Site Development",
-        "tenant": "Titan Infrastructure",
-        "address": "5925 Innovation Rd",
-        "city": "West Jordan",
-        "state": "UT",
-        "county": "West Jordan County",
-        "latitude": 40.46513,
-        "longitude": -111.862291,
-        "capacity_mw": 200,
-        "cost_billions_usd": 1.28,
-        "property_acres": 49,
-        "current_status": "UNDER_REVIEW",
-        "status_date": "2025-03-13",
-        "stage_gate": "LEGISLATIVE_ZONING",
-        "has_opposition": true,
-        "opposition_factors": [
-          "Visual Impact",
-          "Historic Preservation",
-          "Noise"
-        ],
-        "opposition_count": 3,
-        "community_groups": [
-          "Rural Defense League",
-          "Environmental Justice Network",
-          "Residents Against Data Centers"
-        ],
-        "milestone_count": 3
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.524853,
-          39.460554
-        ]
-      },
-      "properties": {
-        "uid": "GY-012",
-        "facility_name": "Ashburn Data Center Hub",
-        "developer": "Provident Realty Advisors",
-        "tenant": "Cirrus Platforms",
-        "address": "4609 Innovation Dr",
-        "city": "Ashburn",
-        "state": "VA",
-        "county": "Ashburn County",
-        "latitude": 39.460554,
-        "longitude": -77.524853,
-        "capacity_mw": 750,
-        "cost_billions_usd": 2.6,
-        "property_acres": 161,
-        "current_status": "DELAYED",
-        "status_date": "2025-01-19",
-        "stage_gate": "BOARD_OF_SUPERVISORS",
-        "has_opposition": true,
-        "opposition_factors": [
-          "Light Pollution",
-          "Air Quality"
-        ],
-        "opposition_count": 2,
-        "community_groups": [
-          "Community First Initiative",
-          "Power Grid Accountability Group"
-        ],
-        "milestone_count": 2
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.316923,
-          37.733255
-        ]
-      },
-      "properties": {
-        "uid": "GY-013",
-        "facility_name": "Ashburn Data Center Campus",
-        "developer": "Bridgepoint Infrastructure",
-        "tenant": "Summit Technologies",
-        "address": "5428 Industrial Way",
-        "city": "Ashburn",
-        "state": "VA",
-        "county": "Ashburn County",
-        "latitude": 37.733255,
-        "longitude": -78.316923,
-        "capacity_mw": 200,
-        "cost_billions_usd": 0.43,
-        "property_acres": 531,
-        "current_status": "WITHDRAWN",
-        "status_date": "2025-03-20",
-        "stage_gate": "COMMUNITY_HEARING",
-        "has_opposition": true,
-        "opposition_factors": [
-          "Visual Impact",
-          "Noise",
-          "Historic Preservation"
-        ],
-        "opposition_count": 3,
-        "community_groups": [
-          "Green Space Guardians"
-        ],
-        "milestone_count": 5
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.480254,
-          33.812868
-        ]
-      },
-      "properties": {
-        "uid": "GY-014",
-        "facility_name": "Chandler Data Center Campus",
-        "developer": "Blackstone Infrastructure",
-        "tenant": "Keystone Cloud",
-        "address": "741 Commerce Way",
+        "uid": "GY_003",
+        "facility_name": "Chandler AZ DC Moratorium",
+        "developer": "Multiple",
+        "tenant": "Hyperscaler",
         "city": "Chandler",
         "state": "AZ",
-        "county": "Chandler County",
-        "latitude": 33.812868,
-        "longitude": -112.480254,
-        "capacity_mw": 1000,
-        "cost_billions_usd": 2.38,
-        "property_acres": 591,
-        "current_status": "DELAYED",
-        "status_date": "2024-01-06",
-        "stage_gate": "BOARD_OF_SUPERVISORS",
-        "has_opposition": true,
-        "opposition_factors": [
-          "Environment"
-        ],
-        "opposition_count": 1,
-        "community_groups": [
-          "Property Rights Coalition",
-          "Save Our Valley Coalition",
-          "Residents Against Data Centers"
-        ],
-        "milestone_count": 8
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.594592,
-          33.470257
-        ]
-      },
-      "properties": {
-        "uid": "GY-015",
-        "facility_name": "Marietta Data Center Hub",
-        "developer": "Diode Ventures",
-        "tenant": "Apex Cloud Solutions",
-        "address": "2391 Enterprise Pkwy",
-        "city": "Marietta",
-        "state": "GA",
-        "county": "Marietta County",
-        "latitude": 33.470257,
-        "longitude": -84.594592,
-        "capacity_mw": 300,
-        "cost_billions_usd": 1.25,
-        "property_acres": 597,
-        "current_status": "UNDER_REVIEW",
-        "status_date": "2024-02-17",
-        "stage_gate": "UTILITY_APPROVAL",
-        "has_opposition": true,
-        "opposition_factors": [
-          "Light Pollution",
-          "Rural Preservation"
-        ],
-        "opposition_count": 2,
-        "community_groups": [
-          "Friends of Rural Heritage"
-        ],
-        "milestone_count": 5
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.541941,
-          35.6272
-        ]
-      },
-      "properties": {
-        "uid": "GY-016",
-        "facility_name": "Raleigh Data Center Complex",
-        "developer": "Blackstone Infrastructure",
-        "tenant": "Summit Technologies",
-        "address": "2205 Enterprise Pkwy",
-        "city": "Raleigh",
-        "state": "NC",
-        "county": "Raleigh County",
-        "latitude": 35.6272,
-        "longitude": -78.541941,
-        "capacity_mw": 200,
-        "cost_billions_usd": 1.23,
-        "property_acres": 85,
-        "current_status": "DELAYED",
-        "status_date": "2024-05-17",
-        "stage_gate": "ENVIRONMENTAL_REVIEW",
-        "has_opposition": true,
-        "opposition_factors": [
-          "Water",
-          "Environment"
-        ],
-        "opposition_count": 2,
-        "community_groups": [
-          "Clean Water Action Committee"
-        ],
-        "milestone_count": 4
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.045544,
-          30.519869
-        ]
-      },
-      "properties": {
-        "uid": "GY-017",
-        "facility_name": "Houston Data Center Park",
-        "developer": "Starwood Capital Group",
-        "tenant": "Horizon Networks",
-        "address": "6976 Commerce Dr",
-        "city": "Houston",
-        "state": "TX",
-        "county": "Houston County",
-        "latitude": 30.519869,
-        "longitude": -97.045544,
-        "capacity_mw": 100,
-        "cost_billions_usd": 0.77,
-        "property_acres": 475,
-        "current_status": "APPROVED_WITH_CONDITIONS",
-        "status_date": "2024-07-16",
-        "stage_gate": "UTILITY_APPROVAL",
-        "has_opposition": true,
-        "opposition_factors": [
-          "Wildlife",
-          "Environment"
-        ],
-        "opposition_count": 2,
-        "community_groups": [
-          "Sustainable Growth Alliance"
-        ],
-        "milestone_count": 6
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.085571,
-          44.538865
-        ]
-      },
-      "properties": {
-        "uid": "GY-018",
-        "facility_name": "Boardman Data Center Hub",
-        "developer": "Diode Ventures",
-        "tenant": "Summit Technologies",
-        "address": "3740 Innovation Blvd",
-        "city": "Boardman",
-        "state": "OR",
-        "county": "North Boardman County",
-        "latitude": 44.538865,
-        "longitude": -121.085571,
-        "capacity_mw": 100,
-        "cost_billions_usd": 0.61,
-        "property_acres": 456,
-        "current_status": "BLOCKED",
-        "status_date": "2024-05-29",
-        "stage_gate": "UTILITY_APPROVAL",
-        "has_opposition": true,
-        "opposition_factors": [
-          "Property Values"
-        ],
-        "opposition_count": 1,
-        "community_groups": [
-          "Save Our Valley Coalition",
-          "Neighborhood Preservation Alliance",
-          "Environmental Justice Network"
-        ],
-        "milestone_count": 4
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.81122,
-          31.605903
-        ]
-      },
-      "properties": {
-        "uid": "GY-019",
-        "facility_name": "Fort Worth Data Center Complex",
-        "developer": "Silverline Properties",
-        "tenant": "Horizon Networks",
-        "address": "255 Enterprise Rd",
-        "city": "Fort Worth",
-        "state": "TX",
-        "county": "South Fort Worth County",
-        "latitude": 31.605903,
-        "longitude": -95.81122,
-        "capacity_mw": 100,
-        "cost_billions_usd": 0.52,
-        "property_acres": 328,
-        "current_status": "DELAYED",
-        "status_date": "2024-12-19",
-        "stage_gate": "BOARD_OF_SUPERVISORS",
-        "has_opposition": true,
-        "opposition_factors": [
-          "Traffic",
-          "Historic Preservation",
-          "Noise",
-          "Water",
-          "Electricity"
-        ],
-        "opposition_count": 5,
-        "community_groups": [
-          "Rural Defense League",
-          "Green Space Guardians"
-        ],
-        "milestone_count": 7
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.648659,
-          39.813874
-        ]
-      },
-      "properties": {
-        "uid": "GY-020",
-        "facility_name": "Chesterton Data Center Complex",
-        "developer": "Bridgepoint Infrastructure",
-        "tenant": "Bedrock Digital",
-        "address": "6760 Technology Blvd",
-        "city": "Chesterton",
-        "state": "IN",
-        "county": "North Chesterton County",
-        "latitude": 39.813874,
-        "longitude": -86.648659,
+        "county": "Maricopa",
+        "latitude": 33.3062,
+        "longitude": -111.8413,
         "capacity_mw": 500,
-        "cost_billions_usd": 3.12,
-        "property_acres": 295,
-        "current_status": "DELAYED",
-        "status_date": "2025-03-14",
-        "stage_gate": "UTILITY_APPROVAL",
-        "has_opposition": true,
-        "opposition_factors": [
-          "Light Pollution",
-          "Air Quality",
-          "Electricity",
-          "Rural Preservation",
-          "Property Values"
-        ],
-        "opposition_count": 5,
-        "community_groups": [
-          "Heritage Conservation Trust",
-          "Clean Water Action Committee"
-        ],
-        "milestone_count": 4
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.139945,
-          39.668725
-        ]
-      },
-      "properties": {
-        "uid": "GY-021",
-        "facility_name": "Indianapolis Data Center Campus",
-        "developer": "Landmark Data Centers",
-        "tenant": "NovaTech Industries",
-        "address": "7062 Enterprise Dr",
-        "city": "Indianapolis",
-        "state": "IN",
-        "county": "South Indianapolis County",
-        "latitude": 39.668725,
-        "longitude": -87.139945,
-        "capacity_mw": 100,
-        "cost_billions_usd": 0.65,
-        "property_acres": 544,
+        "cost_billions_usd": 3.0,
+        "property_acres": 250,
         "current_status": "BLOCKED",
-        "status_date": "2025-05-24",
-        "stage_gate": "COMMUNITY_HEARING",
-        "has_opposition": true,
-        "opposition_factors": [
-          "Light Pollution"
-        ],
-        "opposition_count": 1,
-        "community_groups": [
-          "Heritage Conservation Trust",
-          "Community First Initiative",
-          "Residents Against Data Centers"
-        ],
-        "milestone_count": 2
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.766115,
-          33.947262
-        ]
-      },
-      "properties": {
-        "uid": "GY-022",
-        "facility_name": "Lithia Springs Data Center Complex",
-        "developer": "Provident Realty Advisors",
-        "tenant": "Cirrus Platforms",
-        "address": "4192 Enterprise Blvd",
-        "city": "Lithia Springs",
-        "state": "GA",
-        "county": "North Lithia Springs County",
-        "latitude": 33.947262,
-        "longitude": -84.766115,
-        "capacity_mw": 200,
-        "cost_billions_usd": 0.61,
-        "property_acres": 415,
-        "current_status": "DELAYED",
-        "status_date": "2025-01-23",
-        "stage_gate": "COMMUNITY_HEARING",
-        "has_opposition": true,
-        "opposition_factors": [
-          "Wildlife",
-          "Property Values"
-        ],
-        "opposition_count": 2,
-        "community_groups": [
-          "Green Space Guardians"
-        ],
-        "milestone_count": 3
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.102874,
-          37.869624
-        ]
-      },
-      "properties": {
-        "uid": "GY-023",
-        "facility_name": "Milpitas Data Center Complex",
-        "developer": "Quantum Realty Trust",
-        "tenant": "Ironclad Hosting",
-        "address": "3150 Innovation Dr",
-        "city": "Milpitas",
-        "state": "CA",
-        "county": "North Milpitas County",
-        "latitude": 37.869624,
-        "longitude": -122.102874,
-        "capacity_mw": 750,
-        "cost_billions_usd": 2.48,
-        "property_acres": 352,
-        "current_status": "BLOCKED",
-        "status_date": "2024-12-02",
-        "stage_gate": "COMMUNITY_HEARING",
-        "has_opposition": true,
-        "opposition_factors": [
-          "Water",
-          "Air Quality",
-          "Historic Preservation",
-          "Rural Preservation",
-          "Visual Impact"
-        ],
-        "opposition_count": 5,
-        "community_groups": [
-          "Citizens for Clean Air",
-          "Power Grid Accountability Group"
-        ],
-        "milestone_count": 5
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.203683,
-          38.361608
-        ]
-      },
-      "properties": {
-        "uid": "GY-024",
-        "facility_name": "Ashburn Data Center Complex",
-        "developer": "Bridgepoint Infrastructure",
-        "tenant": "Meridian Digital",
-        "address": "1880 Innovation Pkwy",
-        "city": "Ashburn",
-        "state": "VA",
-        "county": "South Ashburn County",
-        "latitude": 38.361608,
-        "longitude": -78.203683,
-        "capacity_mw": 750,
-        "cost_billions_usd": 2.06,
-        "property_acres": 539,
-        "current_status": "DELAYED",
-        "status_date": "2025-01-18",
+        "status_date": "2024-03-20",
         "stage_gate": "LEGISLATIVE_ZONING",
         "has_opposition": true,
         "opposition_factors": [
+          "Water",
           "Electricity"
-        ],
-        "opposition_count": 1,
-        "community_groups": [
-          "Clean Water Action Committee",
-          "Friends of Rural Heritage",
-          "Quiet Communities Coalition"
-        ],
-        "milestone_count": 5
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.06604,
-          33.353738
-        ]
-      },
-      "properties": {
-        "uid": "GY-025",
-        "facility_name": "Mesa Data Center Hub",
-        "developer": "Clearwater Data Partners",
-        "tenant": "Bedrock Digital",
-        "address": "4454 Industrial Pkwy",
-        "city": "Mesa",
-        "state": "AZ",
-        "county": "Mesa County",
-        "latitude": 33.353738,
-        "longitude": -112.06604,
-        "capacity_mw": 200,
-        "cost_billions_usd": 0.53,
-        "property_acres": 331,
-        "current_status": "DELAYED",
-        "status_date": "2024-02-02",
-        "stage_gate": "SITE_PLAN_APPROVAL",
-        "has_opposition": true,
-        "opposition_factors": [
-          "Electricity"
-        ],
-        "opposition_count": 1,
-        "community_groups": [
-          "Green Space Guardians",
-          "Community First Initiative"
-        ],
-        "milestone_count": 3
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.818264,
-          41.846897
-        ]
-      },
-      "properties": {
-        "uid": "GY-026",
-        "facility_name": "Franklin Park Data Center Park",
-        "developer": "Silverline Properties",
-        "tenant": "Keystone Cloud",
-        "address": "952 Technology Pkwy",
-        "city": "Franklin Park",
-        "state": "IL",
-        "county": "Franklin Park County",
-        "latitude": 41.846897,
-        "longitude": -87.818264,
-        "capacity_mw": 750,
-        "cost_billions_usd": 3.76,
-        "property_acres": 438,
-        "current_status": "BLOCKED",
-        "status_date": "2024-12-18",
-        "stage_gate": "BOARD_OF_SUPERVISORS",
-        "has_opposition": true,
-        "opposition_factors": [
-          "Noise",
-          "Visual Impact"
         ],
         "opposition_count": 2,
-        "community_groups": [
-          "Residents Against Data Centers"
-        ],
-        "milestone_count": 1
+        "community_detail": "Water usage concerns in drought-prone area led to moratorium on new DC construction",
+        "milestone_count": 0
       }
     },
     {
@@ -1040,37 +113,72 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.997373,
-          40.460597
+          -81.0156,
+          35.2982
         ]
       },
       "properties": {
-        "uid": "GY-027",
-        "facility_name": "Salt Lake City Data Center Park",
-        "developer": "Silverline Properties",
-        "tenant": "Atlas Data Services",
-        "address": "3191 Enterprise Rd",
-        "city": "Salt Lake City",
-        "state": "UT",
-        "county": "North Salt Lake City County",
-        "latitude": 40.460597,
-        "longitude": -111.997373,
-        "capacity_mw": 200,
-        "cost_billions_usd": 1.14,
-        "property_acres": 563,
-        "current_status": "DELAYED",
-        "status_date": "2024-09-10",
-        "stage_gate": "UTILITY_APPROVAL",
+        "uid": "GY_004",
+        "facility_name": "Mt. Holly NC Data Center",
+        "developer": "Unknown Developer",
+        "tenant": "Not specified",
+        "city": "Mt. Holly",
+        "state": "NC",
+        "county": "Gaston",
+        "latitude": 35.2982,
+        "longitude": -81.0156,
+        "capacity_mw": 300,
+        "cost_billions_usd": 1.8,
+        "property_acres": 150,
+        "current_status": "WITHDRAWN",
+        "status_date": "2024-07-10",
+        "stage_gate": "PLANNING_LAND_USE_REVIEW",
+        "has_opposition": true,
+        "opposition_factors": [
+          "Water",
+          "Noise",
+          "Environment",
+          "Property Value"
+        ],
+        "opposition_count": 4,
+        "community_detail": "Strong community pushback over water consumption and noise pollution near residential areas",
+        "milestone_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0642,
+          41.6103
+        ]
+      },
+      "properties": {
+        "uid": "GY_005",
+        "facility_name": "Chesterton IN Data Center",
+        "developer": "Unnamed Developer",
+        "tenant": "Not specified",
+        "city": "Chesterton",
+        "state": "IN",
+        "county": "Porter",
+        "latitude": 41.6103,
+        "longitude": -87.0642,
+        "capacity_mw": 400,
+        "cost_billions_usd": 2.2,
+        "property_acres": 200,
+        "current_status": "WITHDRAWN",
+        "status_date": "2024-08-05",
+        "stage_gate": "PLANNING_LAND_USE_REVIEW",
         "has_opposition": true,
         "opposition_factors": [
           "Environment",
-          "Traffic"
+          "Property Value",
+          "Other"
         ],
-        "opposition_count": 2,
-        "community_groups": [
-          "Environmental Justice Network"
-        ],
-        "milestone_count": 7
+        "opposition_count": 3,
+        "community_detail": "Developer withdrew after sustained community opposition at town hall meetings",
+        "milestone_count": 0
       }
     },
     {
@@ -1078,37 +186,701 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -84.769307,
-          33.505837
+          -82.8085,
+          40.0812
         ]
       },
       "properties": {
-        "uid": "GY-028",
-        "facility_name": "Atlanta Data Center Campus",
-        "developer": "Bridgepoint Infrastructure",
-        "tenant": "Meridian Digital",
-        "address": "8453 Innovation Blvd",
-        "city": "Atlanta",
-        "state": "GA",
-        "county": "West Atlanta County",
-        "latitude": 33.505837,
-        "longitude": -84.769307,
-        "capacity_mw": 750,
-        "cost_billions_usd": 1.58,
-        "property_acres": 244,
-        "current_status": "APPROVED_WITH_CONDITIONS",
-        "status_date": "2024-08-24",
-        "stage_gate": "UTILITY_APPROVAL",
+        "uid": "GY_006",
+        "facility_name": "New Albany OH Campus",
+        "developer": "Large Cloud Provider",
+        "tenant": "Hyperscaler",
+        "city": "New Albany",
+        "state": "OH",
+        "county": "Franklin",
+        "latitude": 40.0812,
+        "longitude": -82.8085,
+        "capacity_mw": 1000,
+        "cost_billions_usd": 7.0,
+        "property_acres": 500,
+        "current_status": "DELAYED",
+        "status_date": "2024-10-15",
+        "stage_gate": "LEGAL_LITIGATION",
         "has_opposition": true,
         "opposition_factors": [
-          "Water"
+          "Electricity",
+          "Environment",
+          "Property Value"
         ],
-        "opposition_count": 1,
-        "community_groups": [
-          "Green Space Guardians",
-          "Heritage Conservation Trust"
+        "opposition_count": 3,
+        "community_detail": "Legal challenges from neighboring landowners over scale of development and grid impact",
+        "milestone_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.7953,
+          38.7135
+        ]
+      },
+      "properties": {
+        "uid": "GY_007",
+        "facility_name": "Warrenton VA Facility",
+        "developer": "Colo Provider",
+        "tenant": "Government",
+        "city": "Warrenton",
+        "state": "VA",
+        "county": "Fauquier",
+        "latitude": 38.7135,
+        "longitude": -77.7953,
+        "capacity_mw": 200,
+        "cost_billions_usd": 1.2,
+        "property_acres": 80,
+        "current_status": "DELAYED",
+        "status_date": "2024-05-20",
+        "stage_gate": "PLANNING_LAND_USE_REVIEW",
+        "has_opposition": true,
+        "opposition_factors": [
+          "Aesthetic",
+          "Noise",
+          "Property Value"
         ],
-        "milestone_count": 4
+        "opposition_count": 3,
+        "community_detail": "Rural community objected to industrial development in historic countryside setting",
+        "milestone_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.9966,
+          38.4732
+        ]
+      },
+      "properties": {
+        "uid": "GY_008",
+        "facility_name": "Culpeper VA Data Center",
+        "developer": "Tech Company",
+        "tenant": "Cloud Provider",
+        "city": "Culpeper",
+        "state": "VA",
+        "county": "Culpeper",
+        "latitude": 38.4732,
+        "longitude": -77.9966,
+        "capacity_mw": 250,
+        "cost_billions_usd": 1.5,
+        "property_acres": 120,
+        "current_status": "BLOCKED",
+        "status_date": "2024-04-12",
+        "stage_gate": "LEGISLATIVE_ZONING",
+        "has_opposition": true,
+        "opposition_factors": [
+          "Aesthetic",
+          "Environment",
+          "Property Value"
+        ],
+        "opposition_count": 3,
+        "community_detail": "Board of supervisors voted against rezoning for data center use",
+        "milestone_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3669,
+          37.5538
+        ]
+      },
+      "properties": {
+        "uid": "GY_009",
+        "facility_name": "Henrico County VA Expansion",
+        "developer": "Major Colo",
+        "tenant": "Multiple",
+        "city": "Henrico",
+        "state": "VA",
+        "county": "Henrico",
+        "latitude": 37.5538,
+        "longitude": -77.3669,
+        "capacity_mw": 350,
+        "cost_billions_usd": 2.0,
+        "property_acres": 180,
+        "current_status": "DELAYED",
+        "status_date": "2024-11-01",
+        "stage_gate": "PLANNING_LAND_USE_REVIEW",
+        "has_opposition": false,
+        "opposition_factors": [],
+        "opposition_count": 0,
+        "community_detail": "Delayed due to utility capacity concerns and substation upgrades needed",
+        "milestone_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8315,
+          33.4152
+        ]
+      },
+      "properties": {
+        "uid": "GY_010",
+        "facility_name": "Mesa AZ Campus",
+        "developer": "Hyperscaler",
+        "tenant": "Cloud Provider",
+        "city": "Mesa",
+        "state": "AZ",
+        "county": "Maricopa",
+        "latitude": 33.4152,
+        "longitude": -111.8315,
+        "capacity_mw": 600,
+        "cost_billions_usd": 4.0,
+        "property_acres": 300,
+        "current_status": "DELAYED",
+        "status_date": "2024-12-01",
+        "stage_gate": "PLANNING_LAND_USE_REVIEW",
+        "has_opposition": true,
+        "opposition_factors": [
+          "Water",
+          "Electricity"
+        ],
+        "opposition_count": 2,
+        "community_detail": "Paused pending water sustainability study",
+        "milestone_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.252,
+          41.6764
+        ]
+      },
+      "properties": {
+        "uid": "GY_011",
+        "facility_name": "South Bend IN Facility",
+        "developer": "Cloud Infrastructure Co",
+        "tenant": "Hyperscaler",
+        "city": "South Bend",
+        "state": "IN",
+        "county": "St. Joseph",
+        "latitude": 41.6764,
+        "longitude": -86.252,
+        "capacity_mw": 400,
+        "cost_billions_usd": 2.5,
+        "property_acres": 200,
+        "current_status": "DELAYED",
+        "status_date": "2024-09-15",
+        "stage_gate": "PLANNING_LAND_USE_REVIEW",
+        "has_opposition": true,
+        "opposition_factors": [
+          "Noise",
+          "Property Value"
+        ],
+        "opposition_count": 2,
+        "community_detail": "Residents near proposed site organized opposition citing noise and property value concerns",
+        "milestone_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1118,
+          41.4039
+        ]
+      },
+      "properties": {
+        "uid": "GY_012",
+        "facility_name": "Elwood IL Data Center",
+        "developer": "Developer LLC",
+        "tenant": "Not specified",
+        "city": "Elwood",
+        "state": "IL",
+        "county": "Will",
+        "latitude": 41.4039,
+        "longitude": -88.1118,
+        "capacity_mw": 500,
+        "cost_billions_usd": 3.0,
+        "property_acres": 250,
+        "current_status": "WITHDRAWN",
+        "status_date": "2024-06-30",
+        "stage_gate": "PLANNING_LAND_USE_REVIEW",
+        "has_opposition": true,
+        "opposition_factors": [
+          "Environment",
+          "Electricity",
+          "Other"
+        ],
+        "opposition_count": 3,
+        "community_detail": "Developer withdrew application after grid capacity study showed insufficient power supply",
+        "milestone_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8384,
+          37.1374
+        ]
+      },
+      "properties": {
+        "uid": "GY_013",
+        "facility_name": "Surry County VA Solar+DC",
+        "developer": "Renewable DC Developer",
+        "tenant": "Tech Company",
+        "city": "Surry",
+        "state": "VA",
+        "county": "Surry",
+        "latitude": 37.1374,
+        "longitude": -76.8384,
+        "capacity_mw": 150,
+        "cost_billions_usd": 0.9,
+        "property_acres": 500,
+        "current_status": "BLOCKED",
+        "status_date": "2024-08-20",
+        "stage_gate": "LEGISLATIVE_ZONING",
+        "has_opposition": true,
+        "opposition_factors": [
+          "Aesthetic",
+          "Environment",
+          "Other"
+        ],
+        "opposition_count": 3,
+        "community_detail": "Combined solar farm and data center opposed due to agricultural land conversion",
+        "milestone_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7372,
+          38.2776
+        ]
+      },
+      "properties": {
+        "uid": "GY_014",
+        "facility_name": "Jeffersonville IN Campus",
+        "developer": "Data Center Developer",
+        "tenant": "Hyperscaler",
+        "city": "Jeffersonville",
+        "state": "IN",
+        "county": "Clark",
+        "latitude": 38.2776,
+        "longitude": -85.7372,
+        "capacity_mw": 300,
+        "cost_billions_usd": 1.8,
+        "property_acres": 150,
+        "current_status": "WITHDRAWN",
+        "status_date": "2024-10-10",
+        "stage_gate": "PLANNING_LAND_USE_REVIEW",
+        "has_opposition": true,
+        "opposition_factors": [
+          "Noise",
+          "Property Value",
+          "Health"
+        ],
+        "opposition_count": 3,
+        "community_detail": "Health concerns from nearby residents about diesel generator emissions and noise",
+        "milestone_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8448,
+          42.3636
+        ]
+      },
+      "properties": {
+        "uid": "GY_015",
+        "facility_name": "Waukegan IL Lakefront DC",
+        "developer": "Infrastructure Fund",
+        "tenant": "Multiple",
+        "city": "Waukegan",
+        "state": "IL",
+        "county": "Lake",
+        "latitude": 42.3636,
+        "longitude": -87.8448,
+        "capacity_mw": 200,
+        "cost_billions_usd": 1.2,
+        "property_acres": 60,
+        "current_status": "BLOCKED",
+        "status_date": "2024-05-01",
+        "stage_gate": "LEGAL_LITIGATION",
+        "has_opposition": true,
+        "opposition_factors": [
+          "Environment",
+          "Water",
+          "Aesthetic"
+        ],
+        "opposition_count": 3,
+        "community_detail": "Environmental groups filed lawsuit over proximity to Lake Michigan shoreline",
+        "milestone_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.436,
+          37.5407
+        ]
+      },
+      "properties": {
+        "uid": "GY_016",
+        "facility_name": "Richmond VA Southside",
+        "developer": "Colo Developer",
+        "tenant": "Cloud Provider",
+        "city": "Richmond",
+        "state": "VA",
+        "county": "Richmond City",
+        "latitude": 37.5407,
+        "longitude": -77.436,
+        "capacity_mw": 250,
+        "cost_billions_usd": 1.5,
+        "property_acres": 100,
+        "current_status": "DELAYED",
+        "status_date": "2024-07-15",
+        "stage_gate": "PLANNING_LAND_USE_REVIEW",
+        "has_opposition": false,
+        "opposition_factors": [],
+        "opposition_count": 0,
+        "community_detail": "Delayed due to brownfield remediation requirements on former industrial site",
+        "milestone_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.4139,
+          39.4667
+        ]
+      },
+      "properties": {
+        "uid": "GY_017",
+        "facility_name": "Terre Haute IN Center",
+        "developer": "Regional Developer",
+        "tenant": "Not specified",
+        "city": "Terre Haute",
+        "state": "IN",
+        "county": "Vigo",
+        "latitude": 39.4667,
+        "longitude": -87.4139,
+        "capacity_mw": 200,
+        "cost_billions_usd": 1.0,
+        "property_acres": 100,
+        "current_status": "WITHDRAWN",
+        "status_date": "2024-11-20",
+        "stage_gate": "PLANNING_LAND_USE_REVIEW",
+        "has_opposition": true,
+        "opposition_factors": [
+          "Electricity",
+          "Other"
+        ],
+        "opposition_count": 2,
+        "community_detail": "Utility unable to guarantee power delivery timeline, developer moved to alternative site",
+        "milestone_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.0763,
+          38.7743
+        ]
+      },
+      "properties": {
+        "uid": "GY_018",
+        "facility_name": "Talbot County MD Facility",
+        "developer": "Infrastructure Developer",
+        "tenant": "Cloud Provider",
+        "city": "Easton",
+        "state": "MD",
+        "county": "Talbot",
+        "latitude": 38.7743,
+        "longitude": -76.0763,
+        "capacity_mw": 150,
+        "cost_billions_usd": 0.8,
+        "property_acres": 75,
+        "current_status": "BLOCKED",
+        "status_date": "2024-09-25",
+        "stage_gate": "LEGISLATIVE_ZONING",
+        "has_opposition": true,
+        "opposition_factors": [
+          "Aesthetic",
+          "Environment",
+          "Property Value"
+        ],
+        "opposition_count": 3,
+        "community_detail": "Eastern Shore community rejected rezoning citing incompatibility with rural character",
+        "milestone_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4013,
+          40.0587
+        ]
+      },
+      "properties": {
+        "uid": "GY_019",
+        "facility_name": "Licking County OH Campus",
+        "developer": "Hyperscaler",
+        "tenant": "Cloud Provider",
+        "city": "Newark",
+        "state": "OH",
+        "county": "Licking",
+        "latitude": 40.0587,
+        "longitude": -82.4013,
+        "capacity_mw": 800,
+        "cost_billions_usd": 5.5,
+        "property_acres": 400,
+        "current_status": "DELAYED",
+        "status_date": "2025-01-10",
+        "stage_gate": "PLANNING_LAND_USE_REVIEW",
+        "has_opposition": true,
+        "opposition_factors": [
+          "Electricity",
+          "Water",
+          "Environment"
+        ],
+        "opposition_count": 3,
+        "community_detail": "Concerns over impact on regional water supply and electrical grid capacity",
+        "milestone_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.8241,
+          34.2979
+        ]
+      },
+      "properties": {
+        "uid": "GY_020",
+        "facility_name": "Gainesville GA Data Center",
+        "developer": "Southeast Developer",
+        "tenant": "Not specified",
+        "city": "Gainesville",
+        "state": "GA",
+        "county": "Hall",
+        "latitude": 34.2979,
+        "longitude": -83.8241,
+        "capacity_mw": 250,
+        "cost_billions_usd": 1.5,
+        "property_acres": 120,
+        "current_status": "WITHDRAWN",
+        "status_date": "2024-12-05",
+        "stage_gate": "PLANNING_LAND_USE_REVIEW",
+        "has_opposition": true,
+        "opposition_factors": [
+          "Water",
+          "Noise",
+          "Property Value"
+        ],
+        "opposition_count": 3,
+        "community_detail": "Developer withdrew after community organized petition with 2,000+ signatures",
+        "milestone_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.7301,
+          38.7574
+        ]
+      },
+      "properties": {
+        "uid": "GY_021",
+        "facility_name": "Fauquier County VA Campus",
+        "developer": "Data Center REIT",
+        "tenant": "Multiple Tenants",
+        "city": "New Baltimore",
+        "state": "VA",
+        "county": "Fauquier",
+        "latitude": 38.7574,
+        "longitude": -77.7301,
+        "capacity_mw": 350,
+        "cost_billions_usd": 2.0,
+        "property_acres": 200,
+        "current_status": "BLOCKED",
+        "status_date": "2024-11-15",
+        "stage_gate": "LEGISLATIVE_ZONING",
+        "has_opposition": true,
+        "opposition_factors": [
+          "Aesthetic",
+          "Noise",
+          "Environment",
+          "Property Value"
+        ],
+        "opposition_count": 4,
+        "community_detail": "County board unanimously denied special use permit citing incompatibility with comprehensive plan",
+        "milestone_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.3994,
+          39.7628
+        ]
+      },
+      "properties": {
+        "uid": "GY_022",
+        "facility_name": "Avon IN Data Center",
+        "developer": "Midwest Developer",
+        "tenant": "Hyperscaler",
+        "city": "Avon",
+        "state": "IN",
+        "county": "Hendricks",
+        "latitude": 39.7628,
+        "longitude": -86.3994,
+        "capacity_mw": 300,
+        "cost_billions_usd": 1.8,
+        "property_acres": 150,
+        "current_status": "DELAYED",
+        "status_date": "2025-01-20",
+        "stage_gate": "PLANNING_LAND_USE_REVIEW",
+        "has_opposition": true,
+        "opposition_factors": [
+          "Noise",
+          "Property Value",
+          "Other"
+        ],
+        "opposition_count": 3,
+        "community_detail": "Neighborhood groups demanded additional noise mitigation measures and visual screening",
+        "milestone_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.7477,
+          33.7515
+        ]
+      },
+      "properties": {
+        "uid": "GY_023",
+        "facility_name": "Douglas County GA Facility",
+        "developer": "Southeast Colo",
+        "tenant": "Cloud Provider",
+        "city": "Douglasville",
+        "state": "GA",
+        "county": "Douglas",
+        "latitude": 33.7515,
+        "longitude": -84.7477,
+        "capacity_mw": 400,
+        "cost_billions_usd": 2.5,
+        "property_acres": 200,
+        "current_status": "DELAYED",
+        "status_date": "2025-02-01",
+        "stage_gate": "PLANNING_LAND_USE_REVIEW",
+        "has_opposition": false,
+        "opposition_factors": [],
+        "opposition_count": 0,
+        "community_detail": "Delayed due to substation construction timeline \u2014 utility estimates 18-month lead time",
+        "milestone_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8212,
+          42.5847
+        ]
+      },
+      "properties": {
+        "uid": "GY_024",
+        "facility_name": "Kenosha WI Data Center",
+        "developer": "Infrastructure Fund",
+        "tenant": "Not specified",
+        "city": "Kenosha",
+        "state": "WI",
+        "county": "Kenosha",
+        "latitude": 42.5847,
+        "longitude": -87.8212,
+        "capacity_mw": 350,
+        "cost_billions_usd": 2.0,
+        "property_acres": 175,
+        "current_status": "WITHDRAWN",
+        "status_date": "2024-08-15",
+        "stage_gate": "PLANNING_LAND_USE_REVIEW",
+        "has_opposition": true,
+        "opposition_factors": [
+          "Environment",
+          "Water",
+          "Property Value"
+        ],
+        "opposition_count": 3,
+        "community_detail": "Environmental review identified wetland impacts; developer chose not to proceed with mitigation costs",
+        "milestone_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.9639,
+          39.4562
+        ]
+      },
+      "properties": {
+        "uid": "GY_025",
+        "facility_name": "Martinsburg WV Campus",
+        "developer": "East Coast Developer",
+        "tenant": "Government/Cloud",
+        "city": "Martinsburg",
+        "state": "WV",
+        "county": "Berkeley",
+        "latitude": 39.4562,
+        "longitude": -77.9639,
+        "capacity_mw": 200,
+        "cost_billions_usd": 1.0,
+        "property_acres": 100,
+        "current_status": "DELAYED",
+        "status_date": "2025-01-05",
+        "stage_gate": "PLANNING_LAND_USE_REVIEW",
+        "has_opposition": false,
+        "opposition_factors": [],
+        "opposition_count": 0,
+        "community_detail": "Delayed due to transmission line upgrade requirements \u2014 2-year utility timeline",
+        "milestone_count": 0
       }
     }
   ]

@@ -1,50 +1,46 @@
 {
-  "generated": "2026-03-26T00:00:00Z",
+  "generated": "2026-04-03T12:23:26.360768",
   "summary": {
-    "total_projects": 28,
-    "total_capacity_mw": 11500,
-    "total_capacity_gw": 11.5,
-    "total_cost_billions": 52.68,
-    "total_acres": 7840,
-    "with_opposition": 28,
+    "total_projects": 25,
+    "total_capacity_mw": 9800,
+    "total_capacity_gw": 9.8,
+    "total_cost_billions": 60.2,
+    "total_acres": 5260,
+    "with_opposition": 21,
     "blocked_count": 7,
     "delayed_count": 11,
-    "withdrawn_count": 2
+    "withdrawn_count": 7
   },
-  "by_state": {
-    "IN": 3,
-    "AZ": 3,
-    "VA": 5,
-    "OH": 2,
-    "IL": 2,
-    "UT": 3,
-    "GA": 4,
-    "NC": 2,
-    "TX": 2,
-    "OR": 1,
-    "CA": 1
-  },
-  "by_opposition_factor": {
-    "Air Quality": 6,
-    "Water": 7,
-    "Environment": 8,
-    "Traffic": 5,
-    "Noise": 8,
-    "Wildlife": 4,
-    "Visual Impact": 9,
-    "Light Pollution": 8,
-    "Electricity": 6,
-    "Property Values": 5,
-    "Rural Preservation": 4,
-    "Historic Preservation": 4
+  "by_status": {
+    "BLOCKED": 7,
+    "DELAYED": 11,
+    "WITHDRAWN": 7
   },
   "by_stage_gate": {
-    "LEGISLATIVE_ZONING": 4,
-    "PLANNING_COMMISSION": 3,
-    "UTILITY_APPROVAL": 9,
-    "ENVIRONMENTAL_REVIEW": 3,
-    "BOARD_OF_SUPERVISORS": 4,
-    "COMMUNITY_HEARING": 4,
-    "SITE_PLAN_APPROVAL": 1
+    "LEGISLATIVE_ZONING": 7,
+    "PLANNING_LAND_USE_REVIEW": 16,
+    "LEGAL_LITIGATION": 2
+  },
+  "by_state": {
+    "VA": 8,
+    "AZ": 2,
+    "NC": 1,
+    "IN": 5,
+    "OH": 2,
+    "IL": 2,
+    "MD": 1,
+    "GA": 2,
+    "WI": 1,
+    "WV": 1
+  },
+  "by_opposition_factor": {
+    "Noise": 9,
+    "Electricity": 8,
+    "Property Value": 13,
+    "Environment": 12,
+    "Water": 7,
+    "Other": 5,
+    "Aesthetic": 6,
+    "Health": 1
   }
 }
